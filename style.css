@@ -61,7 +61,7 @@ body {
 }
 
 .box {
-  background-image: url('https://media.giphy.com/media/EZqwsBSPlvSda/giphy.gif');
+  background-image: url(https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZ6dTRxdGo2cDNkN2JvdXZsdXpudm5jc3RtNXprcHBobHQ0ZzRqMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/2UxWBIttMvvIJ55hTe/giphy.gif);
   background-repeat: no-repeat;
   background-size: 500px 500px;
   position: relative;
@@ -72,7 +72,7 @@ body {
 
 .box::after {
   content: '';
-  background-color: #f6e58d;
+  background-color: #1e68c2;
   position: absolute;
   top: 8px;
   right: -15px;
@@ -83,7 +83,7 @@ body {
 
 .box::before {
   content: '';
-  background-color: #f9ca24;
+  background-color: #770958;
   position: absolute;
   bottom: -15px;
   left: 8px;
